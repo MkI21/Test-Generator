@@ -1,15 +1,20 @@
-Proiect Internship Ai 
+Internship project Ai 
 
 used techs :
 
 AI, LLM,RAG, LLama3, Vector Search, Langchain, Streamlit, Python 
 
+Basically, a chatbot where a teacher can input a PDF, and the model, using Retrieval-Augmented Generation (RAG), searches for relevant information to generate exam tests.
 
-Basically un chat bot unde un prof presupun input un pdf si modelul gen foloseste RAG si cauta info pertinente sa genereze teste pt examene, 
+[FINAL VERSION](v2.py)
+
+[Chat bot model](basic.py)
+
+
+[Completed training sessions and project list.](Training Soft31 - 2024.pdf)
+
 
 [aici avem prima idee de interfata](cute-interface.py)
 
 [si aici v1 ](v1.py)
-
-TODO: next versions.
 
