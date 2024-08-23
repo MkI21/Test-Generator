@@ -9,7 +9,7 @@ Basically, a chatbot where a teacher can input a PDF, and the model, using Retri
 
 [Chat bot model](basic.py)
 
-[mockup](files\mockup.pdf)
+[mockup](files/mockup.pdf)
 
 [Completed training sessions and project list.](Training-Soft31-2024.pdf)
 
