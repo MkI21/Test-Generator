@@ -11,4 +11,3 @@ Basically, a chatbot where a teacher can input a PDF, and the model, using Retri
 
 [images](imgs/ss.png)
 
-
