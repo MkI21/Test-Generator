@@ -7,13 +7,8 @@ Basically, a chatbot where a teacher can input a PDF, and the model, using Retri
 
 [FINAL VERSION](v2.py)
 
-[Chat bot model](basic.py)
+[Previous versions](versions)
 
+[images](imgs/ss.png)
 
-
-[Completed training sessions and project list.](Training-Soft31-2024.pdf)
-
-[aici avem prima idee de interfata](cute-interface.py)
-
-[si aici v1 ](v1.py)
 
